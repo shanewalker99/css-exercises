@@ -1,14 +1,14 @@
 /* Add CSS Styling */
-.buttstyle {
+.yellow, .blacknwhite {
     font-size: 28px;
-    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-#yellow {
+.yellow {
     background-color: yellow;
 }
 
-#blacknwhite {
+.blacknwhite {
     background-color: black;
     color: white;
 }
